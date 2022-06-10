@@ -1,1 +1,2 @@
 June 8th: Finished CSS Bootstrap part of lecture and started learning Javascript.
+June 10th: started jQuery
